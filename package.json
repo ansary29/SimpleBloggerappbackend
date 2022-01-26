@@ -8,8 +8,7 @@
   },
   
   "scripts": {
-    "postinstall": "npm run build",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Ansary",
   "license": "ISC",
